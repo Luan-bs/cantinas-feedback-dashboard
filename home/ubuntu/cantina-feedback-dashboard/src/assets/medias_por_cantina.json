@@ -1,0 +1,23 @@
+[
+    {
+        "cantina":"Adriano Chagas Burguer",
+        "higiene":4.2875,
+        "precos":3.3625,
+        "atendimento":4.6,
+        "nota_geral":4.0833333333
+    },
+    {
+        "cantina":"Del\u00edcias Gourmet",
+        "higiene":4.3620689655,
+        "precos":2.724137931,
+        "atendimento":4.3103448276,
+        "nota_geral":3.7988505747
+    },
+    {
+        "cantina":"Dolce Del\u00edcias",
+        "higiene":3.7831325301,
+        "precos":2.0602409639,
+        "atendimento":3.5180722892,
+        "nota_geral":3.1204819277
+    }
+]

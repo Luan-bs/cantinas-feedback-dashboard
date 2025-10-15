@@ -1,0 +1,17 @@
+{
+    "Adriano Chagas Burguer":{
+        "Negativo":1,
+        "Neutro":0,
+        "Positivo":24
+    },
+    "Del\u00edcias Gourmet":{
+        "Negativo":0,
+        "Neutro":2,
+        "Positivo":9
+    },
+    "Dolce Del\u00edcias":{
+        "Negativo":19,
+        "Neutro":6,
+        "Positivo":2
+    }
+}
